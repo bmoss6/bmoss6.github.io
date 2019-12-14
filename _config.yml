@@ -9,8 +9,8 @@
 title: Tech Thoughts and Stuff
 email: techthoughtsandstuff@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Blog about stuff I find interesting in technology, particularly cybersecurity. Different papers, projects and other
-endeavors from myself and others. Thanks for the interest!  
+"Blog about stuff I find interesting in technology, particularly cybersecurity. Different papers, projects and other
+endeavors from myself and others. Thanks for the interest!"  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: BlakeMoss11
